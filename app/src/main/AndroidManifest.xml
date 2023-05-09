@@ -13,6 +13,20 @@
         android:theme="@style/Theme.KidsCardGame"
         tools:targetApi="31">
         <activity
+            android:name=".KavusmaActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".BilmeceActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".GameActivity"
             android:exported="false">
             <meta-data
