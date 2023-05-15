@@ -16,14 +16,14 @@
 ## Installation
 
 - Clone this repository:
-- Copy code code ''' git clone https://github.com/AyseNurErdogan13/Kids-Card-Game-Code-Calculator.git'''
+- Copy code code git clone https://github.com/AyseNurErdogan13/Kids-Card-Game-Code-Calculator.git 
 - Open Android Studio and import the project.
 - Review and customize the project files if necessary.
 - Build the game in Android Studio and run it on an Android device or emulator.
 
 ## Usage
 
--Launch the game and view the main page.
+- Launch the game and view the main page.
 - You will see that the farmer's cows are kidnapped by aliens. Your mission in the game is to solve a riddle to rescue the cows.
 - To solve the riddle and find the first letter, you need to perform numerical calculations. The game will provide you with a mathematical task, and you need to perform calculations to reach the correct result.
 - Once you find the correct result, you will receive a new task to find the next letter. Continue in this way to find all the letters and complete the riddle.
