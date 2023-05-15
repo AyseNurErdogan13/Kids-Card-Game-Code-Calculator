@@ -15,8 +15,8 @@
 
 ## Installation
 
--Clone this repository:
--Copy code code ''' git clone https://github.com/AyseNurErdogan13/Kids-Card-Game-Code-Calculator.git'''
+- Clone this repository:
+- Copy code code ''' git clone https://github.com/AyseNurErdogan13/Kids-Card-Game-Code-Calculator.git'''
 - Open Android Studio and import the project.
 - Review and customize the project files if necessary.
 - Build the game in Android Studio and run it on an Android device or emulator.
